@@ -78,8 +78,6 @@ AC_TYPE_SIZE_T
 #AC_CONFIG_FILES([Makefile])
 AC_CONFIG_FILES([Makefile
                  broadband/Makefile
-                 app/Makefile
-                 broadband-pc/Makefile
-                 app-pc/Makefile])
+                 app/Makefile])
 
 AC_OUTPUT
